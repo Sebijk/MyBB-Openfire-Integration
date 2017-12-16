@@ -1,4 +1,4 @@
-#MyBB Openfire Integration
+# MyBB Openfire Integration
 
 First published at 24th September 2008 on https://mods.mybb.com/view/openfire-integration.
 A very easy and simple add-on.
